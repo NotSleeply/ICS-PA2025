@@ -4,7 +4,7 @@
 
 ## 学习资料
 
-- [南大PA讲义](https://nju-projectn.github.io/ics-pa-gitbook/)
+- [南大PA讲义](https://nju-projectn.github.io/ics-pa-gitbook/)：请结合课程与实验阅读。
 
 ## 实验过程
 

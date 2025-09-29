@@ -1801,7 +1801,6 @@ Referenced Packages
 /_build
 /cover
 /deps
-/doc
 /.fetch
 erl_crash.dump
 *.ez
@@ -2720,7 +2719,6 @@ wp-config.php
 ### Racket template
 .DS_Store
 compiled/
-/doc/
 *~
 *.bak
 \#*
@@ -5572,13 +5570,6 @@ build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
-# Directory created by dartdoc
-# If you don't generate documentation locally you can remove this line.
-doc/api/
-
-# dotenv environment variables file
-.env*
-
 # Avoid committing generated Javascript files:
 *.dart.js
 *.info.json      # Produced by the --dump-info flag.
@@ -5864,7 +5855,6 @@ build-iPhoneSimulator/
 ## Documentation cache and generated files:
 /.yardoc/
 /_yardoc/
-/doc/
 /rdoc/
 
 ## Environment normalization:
