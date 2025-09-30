@@ -6,6 +6,10 @@
 
 - [**南大PA讲义**](https://nju-projectn.github.io/ics-pa-gitbook)：请结合课程与实验阅读。
 
+- [**git文档**](https://git-scm.cn)：官方中文文档.
+
+- [***菜鸟教程 -- git**](https://www.runoob.com/git/git-tutorial.html)：`git文档`教程看不懂就看`菜鸟`。
+
 - [**Linux 命令列表**](https://dosbat.com/linux/hot.html)：基础 `Linux` 命令速查手册列表。
 
 - [**Linux-terminal**](https://cn.linux-terminal.com)：`Linux` 相关文章文档与新闻。
