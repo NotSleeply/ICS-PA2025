@@ -16,6 +16,7 @@
 
 - [**Homebrew**](https://brew.sh/zh-cn)：`macOS`（或 `Linux`）缺失的软件包的管理器。
 
+- [**VMware 文档**](https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/search.html?q=%E5%AE%89%E8%A3%85&page=1)：使用虚拟机的方式运行`Linux`时，需要查看。
 ## 实验过程
 
 <div align="center">
