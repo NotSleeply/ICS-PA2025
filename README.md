@@ -10,6 +10,8 @@
 
 - [**菜鸟教程 -- git**](https://www.runoob.com/git/git-tutorial.html)：`git文档`教程看不懂就看`菜鸟`。
 
+- [**【狂神说】Git教程**](https://www.bilibili.com/video/BV1FE411P7B3)：有点老但通俗易懂。
+
 - [**Linux 命令列表**](https://dosbat.com/linux/hot.html)：基础 `Linux` 命令速查手册列表。
 
 - [**Linux-terminal**](https://cn.linux-terminal.com)：`Linux` 相关文章文档与新闻。
