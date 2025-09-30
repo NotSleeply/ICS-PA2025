@@ -12,6 +12,8 @@
 
 - [**Linux命令大全(手册)**](https://www.linuxcool.com)：`Linux` 真正好用的Linux命令在线查询手册。
 
+- [**菜鸟教程 -- linux**](https://www.runoob.com/linux/linux-tutorial.html)：其他`Linux`教程看不懂就看`菜鸟`。
+
 - [**Homebrew**](https://brew.sh/zh-cn)：`macOS`（或 `Linux`）缺失的软件包的管理器。
 
 ## 实验过程
