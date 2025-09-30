@@ -20,6 +20,8 @@
 
 - [**菜鸟教程 -- linux**](https://www.runoob.com/linux/linux-tutorial.html)：其他`Linux`教程看不懂就看`菜鸟`。
 
+- [**正则表达式**](https://regexlearn.com/zh-cn/cheatsheet)：基础功能备忘录。
+
 - [**Homebrew**](https://brew.sh/zh-cn)：`macOS`（或 `Linux`）缺失的软件包的管理器。
 
 - [**VMware 文档**](https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/search.html?q=%E5%AE%89%E8%A3%85&page=1)：使用虚拟机的方式运行`Linux`时，需要查看。
